@@ -1,0 +1,8 @@
+*.o
+prads-asset.log
+src/prads
+src/shm-client
+doc/prads-asset-report.1.gz
+doc/prads-wirefuzz.1.gz
+doc/prads.1.gz
+doc/prads2snort.1.gz
